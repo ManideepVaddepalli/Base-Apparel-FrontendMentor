@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Base-Apparel-FrontendMentor/static/css/main.e36b464e.css",
+    "main.js": "/Base-Apparel-FrontendMentor/static/js/main.332c4a77.js",
+    "static/media/hero-desktop.jpg": "/Base-Apparel-FrontendMentor/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/hero-mobile.jpg": "/Base-Apparel-FrontendMentor/static/media/hero-mobile.1afd055b71b78462d388.jpg",
+    "index.html": "/Base-Apparel-FrontendMentor/index.html",
+    "main.e36b464e.css.map": "/Base-Apparel-FrontendMentor/static/css/main.e36b464e.css.map",
+    "main.332c4a77.js.map": "/Base-Apparel-FrontendMentor/static/js/main.332c4a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36b464e.css",
+    "static/js/main.332c4a77.js"
+  ]
+}
